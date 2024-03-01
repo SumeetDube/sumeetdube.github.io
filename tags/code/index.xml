@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>code on Sumeet Dube</title>
+    <link>https://sumeetdube.github.io/tags/code/</link>
+    <description>Recent content in code on Sumeet Dube</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 20 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://sumeetdube.github.io/tags/code/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hi</title>
+      <link>https://sumeetdube.github.io/posts/introduction/</link>
+      <pubDate>Wed, 20 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://sumeetdube.github.io/posts/introduction/</guid>
+      <description>List of all Icons supported by PaperMod</description>
+    </item>
+  </channel>
+</rss>
