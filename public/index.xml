@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+    <channel>
+      <title>Sumeet Dube</title>
+      <link>https://sumeetdube.github.io</link>
+      <description>Last 10 notes on Sumeet Dube</description>
+      <generator>Quartz -- quartz.jzhao.xyz</generator>
+      <item>
+    <title>Hello</title>
+    <link>https://sumeetdube.github.io/</link>
+    <guid>https://sumeetdube.github.io/</guid>
+    <description>The main page of the website.</description>
+    <pubDate>Fri, 21 Jun 2024 20:48:43 GMT</pubDate>
+  </item><item>
+    <title>Introduction to ResNet</title>
+    <link>https://sumeetdube.github.io/Posts/Introduction-to-ResNet</link>
+    <guid>https://sumeetdube.github.io/Posts/Introduction-to-ResNet</guid>
+    <description>An introductory article about ResNet.</description>
+    <pubDate>Fri, 21 Jun 2024 20:34:32 GMT</pubDate>
+  </item>
+    </channel>
+  </rss>
